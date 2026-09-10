@@ -1,0 +1,6 @@
+ligne;donnee_sensible;categorie_article_9;description;
+1;Oui;Sante;Reference a un probleme d'acces handicap / sante physique.;
+2;Oui;Appartenance syndicale;Mention d'une affiliation syndicale (delegue du personnel).;
+3;Oui;Croyances religieuses;Mention d'une absence liee a une pratique religieuse.;
+4;Non;Aucune;Avis client classique sur la satisfaction du service.;
+5;Oui;Opinions politiques;Indication d'une appartenance / engagement militant politique.;
