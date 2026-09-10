@@ -7,4 +7,4 @@ ip_connexion;IND;L'adresse IP est une donnee d'identification indirecte rattache
 id_cookie;IND;L'identifiant de cookie permet d'isoler et de tracer le comportement d'un utilisateur de maniere indirecte.;
 num_secu;SENS;Le numero de securite sociale (NIR) est un identifiant national unique hautement sensible.;
 carte bancaire;SENS;Les coordonnees bancaires sont des donnees financieres hautement sensibles.;
-commentaire_libre;VARIE (SENS);Ce champ texte contient des donnees sensibles au sens de l'art. 9 du RGPD saisies arbitrairement.;
+commentaire_libre;(SENS);Ce champ texte contient des donnees sensibles au sens de l'art. 9 du RGPD saisies arbitrairement.;
